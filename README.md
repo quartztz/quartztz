@@ -14,5 +14,5 @@ class quartztz:
 
 		return """After having worked with Python during most of my school years, we parted ways
 		due to the lack of static typing. I have since fallen in love with Rust, but I have worked
-		a lot in Java, Scala and C/C++."""
+		a lot in Java, Scala and C/C++, as well as some web development."""
 ```
