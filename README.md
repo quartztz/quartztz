@@ -6,4 +6,4 @@ computer science student, pursuing a master's degree at EPFL. in love with compi
 
 #### what i'm doing
 
- - joining the dark side of computer science, playing around with verification and formalization.
+ - playing around with verification and formalization.
